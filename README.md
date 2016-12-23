@@ -11,7 +11,7 @@ default [config.json](https://github.com/wowlusitong/ss/blob/master/config.json)
 ```
  {
    "port_password":{
-      "193":"psnvg.com",
+      "193":"123456789",
       "8989":"123456789",
       "9001":"123456789",
       "9002":"123456789"
